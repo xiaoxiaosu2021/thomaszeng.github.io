@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Xiaoxiaosu"
+name: "夏天的风"
 # Short bio or description (displayed in the header)
 description: "分享、记录、成长"
 
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  zhihu: #
+  email: #
   facebook:
   flickr:
-  github: lemonchann 
+  github: xiaoxiaosu2021 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -73,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://xiaoxiaosu2021.github.io/xiaoxiao.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
